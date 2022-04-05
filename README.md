@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @waiteng-kwan
-- 👀 I’m interested in 🎮 game development 🎮
+- 👀 I’m interested in 🎮 game development 🎮 and UI/UX
 - 📖 I'm familiar with C/C++, Unity, Unreal Engine 4!
 - 🌱 I'm currently dabbling in website creation using frameworks such as React
 <!-- - 💞️ I’m looking to collaborate on ...
