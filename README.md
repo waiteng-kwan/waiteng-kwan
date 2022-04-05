@@ -2,7 +2,7 @@
 - 👀 I’m interested in 🎮 game development 🎮
 - 📖 I'm familiar with C/C++, Unity, Unreal Engine 4!
 - 🌱 I'm currently dabbling in website creation using frameworks such as React
-- <!-- 💞️ I’m looking to collaborate on ...
+<!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
 <!---
